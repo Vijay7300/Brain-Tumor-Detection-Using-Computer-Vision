@@ -80,9 +80,9 @@ The notebook configures the model as follows:
 ### Training configuration
 
 -Dataset split	Number of images
---Training	5,712
---Testing	1,311
---Total	7,023
+-Training	5,712
+-Testing	1,311
+-Total	7,023
 - Image size: 128 × 128
 - Batch size: 20
 - Number of epochs: 5
@@ -260,7 +260,7 @@ Predictions depend on the training data, image quality, model limitations, and p
 **Vijay Prajapati**
 
 M.Sc-M.Tech — Data & Computational Sciences, IIT Jodhpur
-
+Date:- 11-10-2026
 GitHub: [Vijay7300](https://github.com/Vijay7300)
 
 ---
