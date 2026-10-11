@@ -239,6 +239,12 @@ Predicted Category
 Result Displayed in Flask UI
 ```
 
+## 🎥 Project Demo
+
+Watch the Brain Tumor Detection application in action:
+
+[▶️ **Watch the Demo Video**](PASTE_YOUR_YOUTUBE_VIDEO_LINK_HERE)
+
 ## Future Improvements
 
 - Validate the class-index mapping between training and inference.
