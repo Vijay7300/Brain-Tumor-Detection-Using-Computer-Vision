@@ -239,11 +239,10 @@ Predicted Category
 Result Displayed in Flask UI
 ```
 
-## 🎥 Project Demo
 
-Watch the Brain Tumor Detection application in action:
+## 🎬 Project Demo
 
-[▶️ **Watch the Demo Video**](PASTE_YOUR_YOUTUBE_VIDEO_LINK_HERE)
+![Brain Tumor Detection Demo](assets/brain_tumor_demo.gif)
 
 ## Future Improvements
 
