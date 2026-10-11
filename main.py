@@ -36,7 +36,7 @@ def predict_tumor(image_path):
     img_array = img_to_array(img).astype("float32") / 255.0
     img_array = np.expand_dims(img_array, axis=0)
 
-    predictions = model.predict(img_array, verbose=0)
+    predictions = model(img_array, training=False).numpy()
     predicted_class_index = int(np.argmax(predictions[0]))
     confidence_score = float(np.max(predictions[0]))
 
